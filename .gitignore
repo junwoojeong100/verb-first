@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.playwright-mcp/
+workbook_audit_dump.jsonl
+workbook_audit_readable.txt
+.DS_Store

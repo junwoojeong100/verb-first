@@ -1,0 +1,18 @@
+{
+  "name": "Verb First — 기본동사 말하기 훈련",
+  "short_name": "Verb First",
+  "description": "기본동사를 먼저 꺼내는 영어 말하기 반복 훈련 앱",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ee",
+  "theme_color": "#172019",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
